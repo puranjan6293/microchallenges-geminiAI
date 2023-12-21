@@ -97,7 +97,7 @@ class _MyHomePageState extends State<MyHomePage> {
     });
 
     try {
-      var apiKey = "AIzaSyA3LKzbOutMtS0TqpZMwenwrLLXstpYD0k";
+      var apiKey = "";
       var url =
           'https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=$apiKey';
 
