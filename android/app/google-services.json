@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803299546427",
+    "project_id": "micro-challenge",
+    "storage_bucket": "micro-challenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803299546427:android:32814298c1fb25bacfd31e",
+        "android_client_info": {
+          "package_name": "com.example.microchallenges"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsF4YwzMJ8udd3DPNyQotnXbEJ_edHoRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
